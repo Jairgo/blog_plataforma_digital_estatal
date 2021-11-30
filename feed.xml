@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>PDE Oaxaca</title>
+    <link href="https://blog-plataforma-digital-estatal.vercel.app/feed.xml" rel="self" />
+    <link href="https://blog-plataforma-digital-estatal.vercel.app" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>Administrador</name>
+    </author>
+    <id>https://blog-plataforma-digital-estatal.vercel.app</id>
+
+</feed>
