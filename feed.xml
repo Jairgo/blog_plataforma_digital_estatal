@@ -3,10 +3,92 @@
     <title>PDE Oaxaca</title>
     <link href="https://blog-plataforma-digital-estatal.vercel.app/feed.xml" rel="self" />
     <link href="https://blog-plataforma-digital-estatal.vercel.app" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2021-11-30T13:05:46-06:00</updated>
     <author>
-        <name>Administrador</name>
+        <name>Equipo de la PDE</name>
     </author>
     <id>https://blog-plataforma-digital-estatal.vercel.app</id>
 
+    <entry>
+        <title>Implementación del Sistema de Declaraciones Patrimoniales de la Plataforma Digital Nacional en Puebla</title>
+        <author>
+            <name>Equipo de la PDE</name>
+        </author>
+        <link href="https://blog-plataforma-digital-estatal.vercel.app/implementacion-del-sistema-de-declaraciones-patrimoniales-de-la-plataforma-digital-nacional-en-puebla.html"/>
+        <id>https://blog-plataforma-digital-estatal.vercel.app/implementacion-del-sistema-de-declaraciones-patrimoniales-de-la-plataforma-digital-nacional-en-puebla.html</id>
+
+        <updated>2021-11-30T13:05:46-06:00</updated>
+            <summary>
+                <![CDATA[
+                     Prevenir la corrupción no es tarea sencilla, no se logra con el esfuerzo de sólo un sector de la&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://blog-plataforma-digital-estatal.vercel.app/media/posts/2/El-Guardian-Museo-Barroco.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog-plataforma-digital-estatal.vercel.app/media/posts/2/responsive/El-Guardian-Museo-Barroco-xs.jpg 300w ,https://blog-plataforma-digital-estatal.vercel.app/media/posts/2/responsive/El-Guardian-Museo-Barroco-sm.jpg 480w ,https://blog-plataforma-digital-estatal.vercel.app/media/posts/2/responsive/El-Guardian-Museo-Barroco-md.jpg 768w"  alt="Museo barroco" width="2000" height="1333"></figure>
+<p><strong>Prevenir la corrupción no es tarea sencilla, no se logra con el esfuerzo de sólo un sector de la sociedad, ni de agendas gubernamentales con acciones aisladas; se requiere de un programa de políticas integrales y mecanismos interinstitucionales donde la tecnología se manifieste como una herramienta con un enorme potencial para fortalecer la gestión pública, la transparencia, y la prevención e identificación de actos de corrupción. Permite que el ciudadano común, las organizaciones del sector privado y las instituciones de gobierno competentes realicen acciones de monitoreo, investigación y detección mediante un acceso oportuno a la información, la interacción de los datos y una estrecha cooperación interinstitucional.</strong></p>
+<p>La <a href="https://plataforma-digital-estatal.vercel.app/" target="_blank" rel="noopener noreferrer">Plataforma Digital Estatal</a>, a través de sus seis sistemas iniciales, se visualiza con grandes ventajas en la resolución de investigaciones; donde la disponibilidad e interoperabilidad de grandes cantidades de datos se constituyen, sin duda, como parte de las aportaciones de mayor valor. El <a href="https://plataforma-digital-estatal.vercel.app/sistemas/servidores" target="_blank" rel="noopener noreferrer">sistema de evolución patrimonial, de declaración de intereses y constancia de presentación de declaración fiscal</a> permitirá a los órganos internos de control prevenir y detectar actos de corrupción, porque contarán con información de acceso inmediato que podrán, además, vincular con datos disponibles en los cinco sistemas restantes de la Plataforma.</p>
+<p>En mayo de este año, ante el inicio de la obligación en los ámbitos estatal y municipal para presentar las declaraciones patrimoniales y de intereses en el formato emitido en 2019 por el Comité Coordinador, el reto subnacional ha sido contar con el medio electrónico para la recepción digital de las declaraciones patrimoniales por parte de los servidores públicos y, de esta manera, lograr la incorporación de esta información a la Plataforma. En Puebla, con el lanzamiento del Sistema de Declaraciones desarrollado por la Secretaría Ejecutiva del Sistema Nacional Anticorrupción en coordinación con el Banco Interamericano de Desarrollo y puesto a disposición para descarga y uso libres en el <a href="https://mda.plataformadigitalnacional.org/">Mercado Digital Anticorrupción</a>, nos dimos a la tarea de planificar, diseñar e instrumentar el despliegue e implementación de la aplicación en apoyo a los órganos internos de control de los entes públicos estatales y municipales que no lograron establecer un medio electrónico propio para la recepción de la Declaración Patrimonial y de Intereses de sus servidores públicos.</p>
+<p>En una primera etapa, se realizaron webinars con los entes públicos del estado, en los que se les capacitó sobre aspectos normativos-administrativos para el cumplimiento de la obligación. Además, se les informó sobre el procedimiento para la implementación de este Sistema de Declaraciones. Para facilitar la instalación y configuración de la aplicación, fue necesario realizar una consulta en línea que permitiera conocer el tipo de infraestructura tecnológica, el perfil del personal técnico de apoyo en sitio, así como el número de servidores públicos que presentarían declaración en cada Ente Público, principalmente en el ámbito municipal. Con estos datos, se creó y puso a disposición, en el portal del <a href="https://seapuebla.org.mx/">Sistema Estatal Anticorrupción</a>, una máquina virtual preconfigurada que integra todos los elementos del Sistema de Declaraciones de la Plataforma. A esta máquina virtual se le realizaron múltiples pruebas de rendimiento y estrés para determinar los requerimientos mínimos de hardware y lograr una instalación ágil y funcional del sistema, bajo condiciones promedio de demanda. Asimismo, se documentó paso a paso el proceso de virtualización y su instalación en la infraestructura local del Ente Público.</p>
+<p> </p>
+<p><strong>Foto: </strong>El Guardián. Museo Internacional del Barroco. Reserva Territorial Atlixcáyotl, Puebla, México. Autor: Fernando Moyano.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Plataforma Digital Zacatecas y Poder Judicial del Estado, experiencias de interconexión del S1</title>
+        <author>
+            <name>Equipo de la PDE</name>
+        </author>
+        <link href="https://blog-plataforma-digital-estatal.vercel.app/plataforma-digital-zacatecas-y-poder-judicial-del-estado-experiencias-de-interconexion-del-s1.html"/>
+        <id>https://blog-plataforma-digital-estatal.vercel.app/plataforma-digital-zacatecas-y-poder-judicial-del-estado-experiencias-de-interconexion-del-s1.html</id>
+
+        <updated>2021-11-30T13:02:00-06:00</updated>
+            <summary>
+                <![CDATA[
+                     La titular de la Plataforma Digital Estatal Zacatecas Mtra. María de Jesús Corvera González, enuncia que La declaración patrimonial&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    La titular de la Plataforma Digital Estatal Zacatecas Mtra. María de Jesús Corvera González, enuncia que
+  </p>
+
+  <p>
+    
+  </p>
+
+    <blockquote class="blockquote">
+      El proceso no fue fácil pues en el camino surgieron varias dudas, algunas se pudieron resolver de manera inmediata y otras gracias al apoyo del equipo de la PDN fue posible superarlas, la disposición de trabajo y comunicación entre instituciones involucradas es muy importante para lograr el objetivo de interconectar los datos con las Plataformas Digitales. Reconozco el trabajo del Poder Judicial al sentar precedente en la interconexión con la Plataforma Digital Estatal, así como las demás instituciones que se encuentran trabajando en sus interconexiones&nbsp;
+    </blockquote>
+
+  <p>
+    La declaración patrimonial es un instrumento en el que los servidores públicos informan sobre sus bienes y posibles conflictos de interés, la Ley General de Responsabilidades Administrativas establece que deberán ser enviados en medios electrónicos y que este sistema se llevará a través de la Plataforma Digital Nacional ( PDN), esta información es fundamental en el combate a la corrupción.
+  </p>
+
+  <p>
+    La titular del Órgano Interno de Control del Poder Judicial Lic. Rosa Elena Saucedo, compartió la experiencia al interior de la dependencia, señalando que<br>
+  </p>
+
+    <blockquote class="blockquote">
+      Ante la obligatoriedad de presentar las declaraciones de situación patrimonial y de intereses, el Magistrado Presidente del Tribunal Superior de Justicia del Estado Dr. Arturo Nahle García, y considerando que está Institución ya contaba con un sistema propio, autorizó en fecha 18 de octubre de 2020, que en colaboración con la Dirección de Informática y el Órgano Interno de Control, se iniciaran los trabajos de actualización al Sistema
+    </blockquote>
+
+  <p>
+    Hasta el mes de agosto solo siete Estados se han conectado con la PDN en el Sistema de evolución patrimonial, declaración de intereses y constancia de presentación de declaración fisca l (S1), Zacatecas forma parte de esos siete estados conectados con información del Tribunal Superior de Justicia del Estado.<br>
+  </p>
+
+  <p>
+    Los primeros pasos para lograr que la Plataforma Digital Estatal Zacatecas (PDE) se conectara con la PDN, se dieron cuando el Comité Coordinador (CC) estatal, estableció la estrategia de reunir a las áreas informáticas de diversas instituciones; esto se llevó a cabo el 22 de noviembre del 2018 en la primera reunión de Plataforma en la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Zacatecas (SESEA), ahí se dio a conocer el proyecto de la PDE y su interconexión con la PDN, fue el inicio de una serie de reuniones que se llevaron a cabo con el mismo mensaje pero diversos participantes como: Órganos Internos de Control de las instituciones que forman parte del CC y de Organismos Autónomos, con la finalidad de poner en marcha el S1.
+  </p>
+
+  <p>
+    El resto de las instituciones gubernamentales de Zacatecas se encuentran redoblando esfuerzos con la finalidad de concretar los objetivos de interconexión con la PDE y PDN con el sistema de declaraciones patrimoniales.
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
